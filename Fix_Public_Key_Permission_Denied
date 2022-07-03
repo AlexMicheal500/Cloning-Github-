@@ -42,3 +42,5 @@ Then copy and paste to SSH key field in settings of Github
 Name of the file - id_rsa.pub
 
 (To generate SSH keys on Windows machine click here)
+
+Visit https://jhooq.com/github-permission-denied-publickey/   FOR FULL DOCUMENTATION
